@@ -15,19 +15,27 @@ KWIC 作为一个早年间在 ACM 的 Paper 提出的一个问题，被全世界
 
 针对于以下输入:
 
-• Star Wars
-• The Empire Strikes Back • The Return of the Jedi
+```
+Star Wars
+The Empire Strikes Back
+The Return of the Jedi
+```
 
 KWCI 索引系统将会得到以下输出:
 
-• Back The Empire Strikes • Empire Strikes Back The • Jedi The Retuen of the
-• Return of the Jedi The
-
-• Star Wars
-• Strikes Back The Empire • The Empire Strikes Back • The Return of the Jedi
-• Wars Star
-• of the Jedi The Return
-• the Jedi The Return of
+```
+Back The Empire Strikes
+Empire Strikes Back The
+Jedi The Retuen of the
+Return of the Jedi The
+Star Wars
+Strikes Back The Empire
+The Empire Strikes Back
+The Return of the Jedi
+Wars Star
+of the Jedi The Return
+the Jedi The Return of
+```
 
 ### 需求概述
 
